@@ -1,0 +1,17 @@
+.label{
+    margin: 50px;
+    background-color: rgb(200, 200, 200);
+    padding: 10px;
+    width: 1300px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.coloms{
+    display: flex;
+    margin: 50px;
+    padding: 10px;
+    width: 350px;
+    border-radius: 5px;
+    text-align: center;
+}
